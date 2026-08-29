@@ -1,0 +1,2 @@
+# anti-die
+anti die
